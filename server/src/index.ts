@@ -5,7 +5,7 @@ import session from "express-session";
 import connectRedis from "connect-redis";
 import microConfig from "./mikro-orm.config";
 import { MikroORM } from "@mikro-orm/core";
-import { __prod__ } from "./constants";
+import { COOKIE_NAME, __prod__ } from "./constants";
 import { ApolloServer } from "apollo-server-express";
 import { buildSchema } from "type-graphql";
 import { HelloResolver } from "./resolvers/hello";
@@ -28,7 +28,7 @@ const main = async () => {
 
     app.use(
         session({
-            name: 'qid',
+            name: COOKIE_NAME,
             store: new RedisStore({
                 client: redisClient,
                 disableTouch: true,
