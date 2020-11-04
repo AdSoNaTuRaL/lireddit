@@ -8,8 +8,8 @@ export async function sendEmail(to: string, html: string) {
     host: "smtp.ethereal.email",
     port: 587,
     auth: {
-      user: 'ey2rahci5eho45ct@ethereal.email',
-      pass: 'RGFaTmcCZZpExTmscD',
+      user: process.env.NODEMAILER_USER,
+      pass: process.env.NODEMAILER_PASSWORD,
     },
   });
 
