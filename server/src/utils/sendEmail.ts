@@ -1,5 +1,5 @@
 import nodemailer from 'nodemailer';
-import { NODEMAILER_USER, NODEMAILER_PASS} from '../../env';
+import { NODEMAILER_USER, NODEMAILER_PASS } from '../env';
 
 export async function sendEmail(to: string, html: string) {
   // let testAccount = await nodemailer.createTestAccount();
