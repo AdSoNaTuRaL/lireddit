@@ -1,4 +1,5 @@
 import nodemailer from 'nodemailer';
+import { NODEMAILER_USER, NODEMAILER_PASS} from '../../env';
 
 export async function sendEmail(to: string, html: string) {
   // let testAccount = await nodemailer.createTestAccount();
@@ -8,8 +9,8 @@ export async function sendEmail(to: string, html: string) {
     host: "smtp.ethereal.email",
     port: 587,
     auth: {
-      user: process.env.NODEMAILER_USER,
-      pass: process.env.NODEMAILER_PASSWORD,
+      user: NODEMAILER_USER,
+      pass: NODEMAILER_PASS,
     },
   });
 
