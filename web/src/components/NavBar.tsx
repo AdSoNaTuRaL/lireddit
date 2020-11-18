@@ -4,9 +4,7 @@ import React from 'react';
 import { useLogoutMutation, useMeQuery } from '../generated/graphql';
 import { isServer } from '../utils/isServer';
 
-interface NavBarProps {
-
-}
+interface NavBarProps {}
 
 export const NavBar: React.FC<NavBarProps> = ({}) => {
   const [{fetching: logoutFetching}, logout] = useLogoutMutation();
