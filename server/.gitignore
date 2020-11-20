@@ -27,3 +27,7 @@ lib/
 .vs/
 .vscode/
 .DS_Store
+
+.env
+.env.production
+ormconfig.json
