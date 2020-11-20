@@ -47,7 +47,7 @@ const main = async () => {
     session({
       name: COOKIE_NAME,
       store: new RedisStore({
-        client: redis,
+        client: redis as any,
         disableTouch: true,
       }),
       cookie: {
