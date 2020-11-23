@@ -13,7 +13,7 @@
 * [How to Run](#construction_worker-how-to-run)
 * [Found a bug? Missing a specific feature?](#bug-issues)
 
-### :computer: Web Screenshots
+### 🖼️ Web Screenshots
 
 > ℹ️ You can also access the website online by clicking [here](https://adsonatural.online/)
 
@@ -25,3 +25,10 @@
   <img src="https://user-images.githubusercontent.com/26275918/100002557-0a53bf80-2dc5-11eb-9a25-454dd02b8c3b.png">
 </div>
 
+# 🖥️ Technologies
+This project was made using the follow technologies:
+
+* [Typescript](https://www.typescriptlang.org/)      
+* [React](https://reactjs.org/)      
+* [Expo](https://expo.io/)       
+* [Express](https://expressjs.com/)      
