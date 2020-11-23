@@ -30,7 +30,6 @@ This project was made using the follow technologies:
 
 * [Typescript](https://www.typescriptlang.org/)      
 * [React](https://reactjs.org/)      
-* [Expo](https://expo.io/)       
 * [Express](https://expressjs.com/)       
 * [URQL](https://formidable.com/open-source/urql/)       
 * [Apollo](https://www.apollographql.com/docs/)       
@@ -67,7 +66,20 @@ $ yarn watch
 # Run Aplication
 $ yarn dev
 ```
-Access API at http://localhost:3334/
+### 💻 Run Web Project
 
+```bash
+# Go to web folder
+$ cd lireddit/web
 
+# Install Dependencies
+$ yarn
 
+# Run Aplication
+$ yarn dev
+```
+Go to http://localhost:3000/ to see the result.
+
+# :bug: Issues
+
+Feel free to **file a new issue** with a respective title and description on the [LiReddit](https://github.com/AdSoNaTuRaL/lireddit/issues) repository. If you already found a solution to any problem, **I would love to review your pull request**!
