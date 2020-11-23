@@ -8,7 +8,7 @@
 
 # :pushpin: Table of Contents
 
-* [Technologies](#🖥️  Technologies)
+* [Technologies](#computer-technologies)
 * [Features](#rocket-features)
 * [How to Run](#construction_worker-how-to-run)
 * [Found a bug? Missing a specific feature?](#bug-issues)
@@ -25,10 +25,49 @@
   <img src="https://user-images.githubusercontent.com/26275918/100002557-0a53bf80-2dc5-11eb-9a25-454dd02b8c3b.png">
 </div>
 
-# 🖥️  Technologies
+# :computer: Technologies
 This project was made using the follow technologies:
 
 * [Typescript](https://www.typescriptlang.org/)      
 * [React](https://reactjs.org/)      
 * [Expo](https://expo.io/)       
-* [Express](https://expressjs.com/)      
+* [Express](https://expressjs.com/)       
+* [URQL](https://formidable.com/open-source/urql/)       
+* [Apollo](https://www.apollographql.com/docs/)       
+* [Node.js](https://nodejs.org/en/)       
+* [PostgreSQL](https://www.postgresql.org/)       
+* [MikroORM](https://mikro-orm.io/)       
+* [TypeORM](https://typeorm.io/#/)       
+* [Redis](https://redis.io/)       
+* [Next.js](https://nextjs.org/)       
+* [TypeGraphQL](https://typegraphql.com/)       
+* [Chakra](https://chakra-ui.com/)
+
+# :rocket: Features
+
+* Web system that works like reddit, you can create a post, updoot or downdoot on some post.
+
+# :construction_worker: How to run
+```bash
+# Clone Repository
+$ git clone https://github.com/AdSoNaTuRaL/lireddit.git
+```
+### 📦 Run API
+> ℹ️  Before you run the api, make sure you have redis installed and running and a postgresql database installed and running (you must create a database). After that create an `.env` file and fill it, with the example information from the `.env.example` file
+```bash
+# Go to server folder
+$ cd lireddit/server
+
+# Install Dependencies
+$ yarn
+
+# Run Aplication (watch)
+$ yarn watch
+
+# Run Aplication
+$ yarn dev
+```
+Access API at http://localhost:3334/
+
+
+
