@@ -15,7 +15,7 @@
 
 ### :computer: Web Screenshots
 <div>
-  <img src="https://user-images.githubusercontent.com/26275918/100002550-07f16580-2dc5-11eb-9341-a9791e4bcfbd.png" border="1">
+  <img src="https://user-images.githubusercontent.com/26275918/100002550-07f16580-2dc5-11eb-9341-a9791e4bcfbd.png" style="border:1px solid black">
   <img src="https://user-images.githubusercontent.com/26275918/100002556-09229280-2dc5-11eb-8d97-b1737af8b37e.png">
   <img src="https://user-images.githubusercontent.com/26275918/100002557-0a53bf80-2dc5-11eb-9a25-454dd02b8c3b.png">
   <img src="https://user-images.githubusercontent.com/26275918/100002561-0b84ec80-2dc5-11eb-9184-5e24f778767d.png">
