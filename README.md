@@ -8,14 +8,14 @@
 
 # :pushpin: Table of Contents
 
-* [Technologies](#computer-technologies)
+* [Technologies](#🖥️  Technologies)
 * [Features](#rocket-features)
 * [How to Run](#construction_worker-how-to-run)
 * [Found a bug? Missing a specific feature?](#bug-issues)
 
-### 🖼️ Web Screenshots
+### 🖼️  Web Screenshots
 
-> ℹ️ You can also access the website online by clicking [here](https://adsonatural.online/)
+> ℹ️  You can also access the website online by clicking [here](https://adsonatural.online/)
 
 <sub>:warning: DEPENDING ON THE DATE YOU ACCESS AND OTHER FACTORS, THE SITE MAY BE OFFLINE </sub><br/>
 
@@ -25,7 +25,7 @@
   <img src="https://user-images.githubusercontent.com/26275918/100002557-0a53bf80-2dc5-11eb-9a25-454dd02b8c3b.png">
 </div>
 
-# 🖥️ Technologies
+# 🖥️  Technologies
 This project was made using the follow technologies:
 
 * [Typescript](https://www.typescriptlang.org/)      
