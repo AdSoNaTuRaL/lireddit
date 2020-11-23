@@ -31,3 +31,4 @@ lib/
 .env
 .env.production
 ormconfig.json
+deploy.sh
