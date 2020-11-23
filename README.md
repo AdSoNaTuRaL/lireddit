@@ -17,7 +17,7 @@
 
 > ℹ️ You can also access the website online by clicking [here](https://adsonatural.online/)
 
-<br/><sub>:warning: DEPENDING ON THE DATE YOU ACCESS AND OTHER FACTORS, THE SITE MAY BE OFFLINE </sub><br/>
+<sub>:warning: DEPENDING ON THE DATE YOU ACCESS AND OTHER FACTORS, THE SITE MAY BE OFFLINE </sub><br/>
 
 <div aling="center">
   <img src="https://user-images.githubusercontent.com/26275918/100002550-07f16580-2dc5-11eb-9341-a9791e4bcfbd.png">
