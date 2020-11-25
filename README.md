@@ -6,6 +6,8 @@
   </sub>
 </div>
 
+<br/>
+
 # :pushpin: Table of Contents
 
 * [Technologies](#computer-technologies)
@@ -13,9 +15,9 @@
 * [How to Run](#construction_worker-how-to-run)
 * [Found a bug? Missing a specific feature?](#bug-issues)
 
-### 🖼️  Web Screenshots
+### :camera: Web Screenshots
 
-> ℹ️  You can also access the website online by clicking [here](https://adsonatural.online/)
+> :information_source: You can also access the website online by clicking [here](https://adsonatural.online/)
 
 <sub>:warning: DEPENDING ON THE DATE YOU ACCESS AND OTHER FACTORS, THE SITE MAY BE OFFLINE </sub><br/>
 
@@ -47,6 +49,12 @@ This project was made using the follow technologies:
 * Web system that works like reddit, you can create a post, updoot or downdoot on some post.
 
 # :construction_worker: How to run
+> :information_source: If you want (and have docker configured in your computer), you can download the docker container with all pre-configured environment.
+```bash
+# Download container
+$ docker push adsonatural/lireddit:1.2
+```
+> or clone the repository
 ```bash
 # Clone Repository
 $ git clone https://github.com/AdSoNaTuRaL/lireddit.git
