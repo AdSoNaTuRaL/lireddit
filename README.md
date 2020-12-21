@@ -8,7 +8,7 @@
 
 <br/>
 
-# :pushpin: Table of Contents
+# 🧾 Table of Contents
 
 * [Technologies](#computer-technologies)
 * [Features](#rocket-features)
