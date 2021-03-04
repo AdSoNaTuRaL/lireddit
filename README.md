@@ -52,7 +52,7 @@ This project was made using the follow technologies:
 > :information_source: If you want (and have docker configured in your computer), you can download the docker container with all pre-configured environment.
 ```bash
 # Download container
-$ docker push adsonatural/lireddit:1.2
+$ docker pull adsonatural/lireddit:1.2
 ```
 > or clone the repository
 ```bash
