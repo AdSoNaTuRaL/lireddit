@@ -90,4 +90,4 @@ Go to http://localhost:3000/ to see the result.
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [LiReddit](https://github.com/AdSoNaTuRaL/lireddit/issues) repository. If you already found a solution to any problem, **I would love to review your pull request**!
+Feel free to **create a new issue** with a respective title and description on the [LiReddit](https://github.com/AdSoNaTuRaL/lireddit/issues) repository. If you already found a solution to any problem, **I would love to review your pull request**!
