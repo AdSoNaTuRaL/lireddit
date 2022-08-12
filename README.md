@@ -1,9 +1,6 @@
 <div align="center">
    <h1>LiReddit</h1>
    <h4>Project made to acquire and improve knowledge with GraphQL, NextJS, Chakra UI</h4>
-  <sub>Built with ❤︎ by
-    <a href="https://github.com/AdSoNaTuRaL">Adson Henrique</a>
-  </sub>
 </div>
 
 <br/>
